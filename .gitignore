@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ML artifacts
+*.pt
+*.pth
+*.ckpt
+runs/
+working/
+outputs/
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
